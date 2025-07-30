@@ -1,8 +1,8 @@
-# YoutubeVideo_Chatbot
+
 
 ```markdown
-```python
-# Youtube-Video_Chatbot
+
+Youtube-Video_Chatbot
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to answer questions about a YouTube video. It uses OpenAI's Whisper for transcription, yt-dlp for downloading audio, and a vector store for efficient retrieval of relevant information.
 
